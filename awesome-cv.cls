@@ -149,7 +149,8 @@
 \definecolor{awesome-orange}{HTML}{FF6138}
 \definecolor{awesome-nephritis}{HTML}{27AE60}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
-\definecolor{awesome-darknight}{HTML}{131A28}
+\definecolor{awesome-darknight}{HTML}{99BD50}
+\definecolor{awesome-blue}{HTML}{739AC5}
 \colorlet{awesome}{awesome-red}
 
 % Awesome section color
