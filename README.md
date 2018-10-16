@@ -1,5 +1,7 @@
 # My Resume [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/jacobgarcia/cv-latex/master/resume.pdf)
 
+Jacob Garcia's CV as a full stack developer. Written in LaTex using [**Awesome CV**](https://github.com/posquit0/Awesome-CV) ShareLatex template.
+
 ## Download
 Here it is the [PDF](https://raw.githubusercontent.com/jacobgarcia/cv-latex/master/resume.pdf)
 
