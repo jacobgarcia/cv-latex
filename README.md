@@ -3,7 +3,7 @@
 ## Download
 Here it is the [PDF](https://raw.githubusercontent.com/jacobgarcia/cv-latex/master/resume.pdf)
 
-![alt tag](https://raw.githubusercontent.com/jacobgarcia/cv-latex/master/resume.jpeg)
+![alt tag](https://raw.githubusercontent.com/jacobgarcia/cv-latex/master/resume.jpg)
 
 ## Credit
 [**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
